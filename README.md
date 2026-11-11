@@ -9,8 +9,8 @@
 ### 🛠️ Software
 
 - **[GRAMSES](https://github.com/crisbh/gramses)** (lead developer): general-relativistic N-body code extending RAMSES, with multigrid solvers on adaptive meshes. Fortran, MPI. [JCAP 2020](https://doi.org/10.1088/1475-7516/2020/01/007)
-- **ExaParty** (core developer): SPH on the [Peano](https://gitlab.lrz.de/Peano) framework using SWIFT's task-based kernels. Testbed for a C++ extension for compact data layouts and MPI datatypes. C++, Python. [ACM TOMS 2026](https://doi.org/10.1145/3799887)
-- **ExaGRyPE** (co-developer): numerical relativity solvers on the ExaHyPE 2 engine. C++, Python. [CPC 2025](https://doi.org/10.1016/j.cpc.2024.109435)
+- **[ExaParty](https://github.com/peano-framework/peano)** (core developer): SPH on the Peano framework using SWIFT's task-based kernels. Testbed for a C++ extension for compact data layouts and MPI datatypes. C++, Python. [ACM TOMS 2026](https://doi.org/10.1145/3799887)
+- **[ExaGRyPE](https://github.com/peano-framework/peano)** (co-developer): numerical relativity solvers on the ExaHyPE 2 engine. C++, Python. [CPC 2025](https://doi.org/10.1016/j.cpc.2024.109435)
 
 ### 🧑‍🏫 Teaching material (in Spanish)
 
