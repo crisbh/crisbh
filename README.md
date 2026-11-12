@@ -29,7 +29,6 @@
 ![HDF5](https://img.shields.io/badge/HDF5-2d2d2d?style=flat)
 ![git](https://img.shields.io/badge/git-f05032?style=flat&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-a42e2b?style=flat&logo=gnu&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064f8c?style=flat&logo=cmake&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat&logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0a9edc?style=flat&logo=pytest&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnubash&logoColor=white)
